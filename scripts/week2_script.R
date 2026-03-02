@@ -1,7 +1,3 @@
-# DV Lab – Week 02
-# Name:K.Sarveswara Rao
-# Roll No:23A91A6187
-
 # Load Air Passengers
 data(AirPassengers)
 
