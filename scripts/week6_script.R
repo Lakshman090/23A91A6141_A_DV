@@ -1,7 +1,3 @@
-# DV Lab – Week 06A
-# Name:K.Sarveswara Rao
-# Roll No:23A91A6187
-#Load and Understand the DataSet
 data(diamonds)
 data(package=.packages(all.available = TRUE))
 library(ggplot2)
