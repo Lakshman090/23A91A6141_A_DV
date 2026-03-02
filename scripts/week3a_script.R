@@ -1,7 +1,3 @@
-# DV Lab – Week 03A
-# Name:K.Sarveswara Rao
-# Roll No:23A91A6187
-# Load the dataset
 data(iris)
 
 # Inspect the Data
