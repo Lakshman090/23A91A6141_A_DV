@@ -1,6 +1,3 @@
-# DV Lab – Week 04b
-# Name:K.Sarveswara Rao
-# Roll No:23A91A6187
 # Load the Air Quality Dataset
 data(airquality)
 
