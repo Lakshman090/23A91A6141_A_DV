@@ -1,7 +1,3 @@
-# DV Lab – Week 01A
-# Name:K.Sarveswara Rao
-# Roll No:23A91A6187
-
 library(ggplot2)
 data("VADeaths")
 
